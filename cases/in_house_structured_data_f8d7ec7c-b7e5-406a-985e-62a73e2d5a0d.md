@@ -8,7 +8,7 @@ A 63-year-old South Asian female was initially diagnosed with right breast carci
 
 ## Q1 (f8d7ec7c-b7e5-406a-985e-62a73e2d5a0d)
 
-
+What is the clinical significance of HER2 status conversion from positive to negative in this case, and how should it influence the treatment strategy? Include discussion of potential mechanisms of resistance to prior HER2-targeted therapy.
 
 ### Answer 1
 
@@ -18,7 +18,7 @@ The HER2 status conversion from positive (3+) to negative in this metastatic bre
 
 ## Q2 (ecb3e00b-d89a-4772-b0f9-ec8017e1fabe)
 
-
+Given the presence of BRAF V600E mutation, albeit at low VAF, what are the therapeutic implications and potential clinical trial options for this patient? Discuss the role of BRAF inhibitors in breast cancer.
 
 ### Answer 2
 
@@ -28,7 +28,7 @@ The presence of BRAF V600E mutation in this metastatic breast cancer patient, de
 
 ## Q3 (fd81a7c1-e0ed-4dfa-9057-ffb776b4b784)
 
-
+How does the presence of MAP3K1 mutation impact prognosis and response to current endocrine therapy with fulvestrant plus ribociclib? Cite relevant literature regarding MAP3K1 alterations in breast cancer.
 
 ### Answer 3
 

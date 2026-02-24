@@ -8,7 +8,7 @@ A 78-year-old female with history of right breast cancer (diagnosed 2019, treate
 
 ## Q1 (f701b5fe-e634-45b8-bc67-6eeb6da87f32)
 
-
+Given the presence of ESR1 mutation (L536R) in this patient who progressed on prior aromatase inhibitor therapy, discuss the molecular mechanism of resistance and provide evidence-based rationale for choosing Fulvestrant over other endocrine therapy options.
 
 ### Answer 1
 
@@ -18,7 +18,7 @@ The ESR1 L536R mutation detected in this patient represents a well-established m
 
 ## Q2 (5c1f8613-000f-4348-80e5-cd2a19bd551f)
 
-
+In the context of concurrent PIK3CA H1047R mutation, evaluate the potential benefit of adding alpelisib to the current regimen. Include discussion of the biomarker-driven approach and relevant clinical trial data supporting this decision.
 
 ### Answer 2
 
@@ -28,7 +28,7 @@ In this 78-year-old patient with metastatic ER+/HER2- breast cancer harboring co
 
 ## Q3 (6fae01c4-efbe-4beb-a2b7-f67c3040174d)
 
-
+Considering the patient's age (78 years) and presence of ATM mutation, discuss the implications for DNA damage repair pathway and potential therapeutic vulnerabilities that could be exploited in subsequent lines of therapy.
 
 ### Answer 3
 

@@ -8,7 +8,7 @@ A 45-year-old South Asian female presented with a left breast mass and axillary 
 
 ## Q1 (d509b817-5359-4f5d-a1ac-2f531fe94248)
 
-
+Given the Luminal B subtype breast cancer with axillary node involvement and PIK3CA mutation, what would be the optimal neoadjuvant vs upfront surgery approach? Include discussion on potential role of CDK4/6 inhibitors and alpelisib.
 
 ### Answer 1
 
@@ -18,7 +18,7 @@ Given this 45-year-old patient with an 18x15mm Grade II Luminal B-like invasive 
 
 ## Q2 (d9bcf811-6610-4149-9918-cdb6803d340e)
 
-
+What is the prognostic significance of Ki-67 of 50% in hormone receptor positive breast cancer? Discuss the evidence for chemotherapy benefit in this molecular subtype.
 
 ### Answer 2
 
@@ -28,7 +28,7 @@ The Ki-67 proliferation index of 50% in this hormone receptor-positive breast ca
 
 ## Q3 (25d46ba8-907f-460c-9824-ecaf50bc05af)
 
-
+How does the presence of PIK3CA E542K mutation (helical domain) impact treatment decisions and prognosis compared to other PIK3CA mutations? Address both early stage and potential future metastatic setting considerations.
 
 ### Answer 3
 

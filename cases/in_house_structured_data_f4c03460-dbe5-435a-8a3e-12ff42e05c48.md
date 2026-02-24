@@ -8,7 +8,7 @@ This is a case of a 50-year-old female with bilateral breast cancer who has demo
 
 ## Q1 (f4c03460-dbe5-435a-8a3e-12ff42e05c48)
 
-
+Given the evolution from hormone receptor-positive to triple-negative disease and the presence of an AKT1 E17K mutation, what targeted therapy options should be considered? Discuss the role of AKT inhibitors and provide evidence from clinical trials.
 
 ### Answer 1
 
@@ -18,7 +18,7 @@ Given this patient's evolution from ER/PR-positive to triple-negative breast can
 
 ## Q2 (02018e8d-97a3-4a8d-95e2-c2ec3d7cab44)
 
-
+How does the presence of ARID1A loss-of-function mutation impact the choice of therapy in this case? Discuss potential synthetic lethal approaches and their clinical evidence in TNBC.
 
 ### Answer 2
 
@@ -28,7 +28,7 @@ The presence of ARID1A loss-of-function mutation in this patient with triple-neg
 
 ## Q3 (c8d27899-5eb3-4ef9-bf81-18ba38dd19e8)
 
-
+What is the prognostic significance of concurrent NF1 and AKT1 mutations in breast cancer, and how might this impact treatment sequencing decisions?
 
 ### Answer 3
 

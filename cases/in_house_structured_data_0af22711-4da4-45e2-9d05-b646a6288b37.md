@@ -8,7 +8,7 @@ A 63-year-old South Asian female with comorbid DM, HTN, and hypothyroidism prese
 
 ## Q1 (0af22711-4da4-45e2-9d05-b646a6288b37)
 
-
+Given the presence of pathogenic BRCA2 mutation and disease progression on CDK4/6 inhibitor therapy, what would be the most appropriate next line of therapy? Discuss the role of PARP inhibitors in this setting. What clinical trials have shown efficacy of PARP inhibitors in metastatic breast cancer with somatic BRCA mutations?
 
 ### Answer 1
 
@@ -18,7 +18,7 @@ Given this 63-year-old patient's progression on first-line CDK4/6 inhibitor ther
 
 ## Q2 (b901f581-6c9d-4c62-9f19-04c114a6d14a)
 
-
+The patient has a PIK3CA H1047R mutation. What is the evidence for using alpelisib in combination with fulvestrant after progression on CDK4/6 inhibitors? How does the presence of concurrent TP53 mutation impact prognosis and treatment decisions?
 
 ### Answer 2
 
@@ -28,7 +28,7 @@ The PIK3CA H1047R mutation in this patient provides strong evidence for using al
 
 ## Q3 (79e1f9a5-08fd-4d31-a010-e01994ee9675)
 
-
+Discuss the discordance between the initial core biopsy (negative) and final surgical pathology. What are the implications of having an epithelial myoepithelial neoplasm diagnosis in breast cancer, and how does this impact treatment decisions?
 
 ### Answer 3
 
